@@ -11,6 +11,7 @@ const refs = {
   seconds: document.querySelector('span[data-seconds]'),
 };
 
+
 refs.start.setAttribute('disabled', '');
 
 const options = {
